@@ -1,4 +1,12 @@
 // Google font
+@import url("https://fonts.cdnfonts.com/css/helvetica-neue-9");
+
+// font-family: 'Helvetica Neue', sans-serif;
+// font-family: 'Helvetica 25 UltraLight', sans-serif;
+// font-family: 'Helvetica 35 Thin', sans-serif;
+// font-family: 'Helvetica 45 Light', sans-serif;
+// font-family: 'Helvetica 55 Roman', sans-serif;
+// font-family: 'Helvetica 65 Medium', sans-serif;
 
 // Couleurs
 
@@ -6,7 +14,7 @@
 ::before,
 ::after {
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: 'Helvetica Neue', sans-serif;
   color: #000;
   font-weight: 300;
   margin: 0;
@@ -22,4 +30,3 @@ a {
 li {
   list-style: none;
 }
-
